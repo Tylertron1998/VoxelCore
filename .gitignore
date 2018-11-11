@@ -30,3 +30,6 @@ Packages/manifest\.json
 obj/Debug/Assembly-CSharp\.csprojAssemblyReference\.cache
 
 VoxelCore_HD/Assets/Plugins
+*.meta
+
+Temp/
